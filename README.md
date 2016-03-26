@@ -1,1 +1,1 @@
-# info
+# info - some usefull tips 
